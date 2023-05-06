@@ -21,6 +21,11 @@
 - ✅️ https://docs.modular.com/mojo/why-mojo.html
 - ✅️ [Modular - Discord](https://discord.com/invite/modular)
 
+> China:
+
+- ✅️ https://cnmojo.org/
+- ✅️ https://mojo-cn.github.io/
+
 > Topic:
 
 - ✅️ https://github.com/topics/mojo
