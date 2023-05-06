@@ -14,9 +14,12 @@
 
 ## Mojo 🔥
 
+> Official:
+
 - ✅️ https://github.com/modularml/mojo
 - ✅️ https://www.modular.com/mojo
 - ✅️ https://docs.modular.com/mojo/why-mojo.html
+- ✅️ [Modular - Discord](https://discord.com/invite/modular)
 
 > Topic:
 
