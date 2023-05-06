@@ -14,9 +14,13 @@
 
 ## Mojo 🔥
 
-- https://github.com/modularml/mojo
-- https://www.modular.com/mojo
-- https://docs.modular.com/mojo/why-mojo.html
+- ✅️ https://github.com/modularml/mojo
+- ✅️ https://www.modular.com/mojo
+- ✅️ https://docs.modular.com/mojo/why-mojo.html
+
+## Forum
+
+- ✅️ https://github.com/orgs/mojo-cn/discussions
 
 ## Chat Group
 
