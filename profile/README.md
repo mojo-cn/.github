@@ -20,6 +20,7 @@
 - ✅️ https://www.modular.com/mojo
 - ✅️ https://docs.modular.com/mojo/why-mojo.html
 - ✅️ [Modular - Discord](https://discord.com/invite/modular)
+- ✅️ https://github.com/modularml/mojo/discussions
 
 > China:
 
@@ -30,11 +31,12 @@
 
 - ✅️ https://github.com/topics/mojo
 
-## Forum
+## Forum 🔥️ 
 
 - ✅️ https://github.com/orgs/mojo-cn/discussions
 
-## Chat Group
+
+## Chat Group 🔥️ 
 
 
 | 群组 | 链接     | 备注 |
