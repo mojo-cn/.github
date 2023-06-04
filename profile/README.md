@@ -41,7 +41,7 @@
 
 | 群组 | 链接     | 备注 |
 | :--------------| :----------------- | :----------------- | 
-| ✅️ Wechat | <img width="250" src="https://user-images.githubusercontent.com/3252130/236625774-11005af1-0cf0-4154-908e-8094b7b3350a.png" /> | 定期更新 |
+| ✅️ Wechat | <img width="250" src="https://github.com/mojo-cn/.github/assets/3252130/a8fdbd5e-b42f-42fb-8a80-339f7559377f" /> | 定期更新 |
 | ✅️ 飞书 | <img width="250" src="https://user-images.githubusercontent.com/3252130/236648450-27179cfb-0b65-41ed-a81c-bb03ea82537b.jpg" /> | 定期更新 |
 | ✅️ Telegram | [![Telegram](https://img.shields.io/badge/Telegram-MojoCN-%232CA5E0?logo=telegram)](https://t.me/MojoCN)  | Mojo 中文社区 |
 | ✅️ Telegram | [![Telegram](https://img.shields.io/badge/Telegram-MojoDaily-%232CA5E0?logo=telegram)](https://t.me/MojoDaily)  | Mojo 日报 |
