@@ -1,11 +1,14 @@
 
 ## Mojo China 🔥
 
-> 学习教程:
+- https://cnmojo.org/
+
+### Mojo 指南:
 
 - ✅ [《Mojo 编程学习指南》](https://trybetter.larksuite.com/wiki/APobw4BNxiU8JgkwtUpucFD0stc)
+- ✅ 基于 Lark(飞书) Wiki 文档, 持续更新...
 
-> awesome:
+### Awesome Mojo:
 
 - 🌈 https://github.com/mojo-cn/awesome-mojo-cn
 
